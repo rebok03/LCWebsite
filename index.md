@@ -18,13 +18,6 @@ We are using text encoding to cull information from the collection, working with
 **bold**
 *italics*
 
-1. List Item 1
-2. List Item 2
-
-* Bullet 1
-* Bullet 2
-* Bullet 3
-
 [This is a link](https://google.com)
 
 Here is an image. Don't forget some alt text for better accessibility!
